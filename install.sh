@@ -7,3 +7,5 @@ ln -s ~/dotfiles/.config/astrovim/lua/user ~/.config/nvim/lua/
 mkdir -p ~/.tmux/plugins/
 ln -s ~/dotfiles/.config/tmux/.tmux/plugins/tpm ~/.tmux/plugins/
 ln -s ~/dotfiles/.config/tmux/ ~/.config/
+ln -s ~/dotfiles/.config/tmux/tmux.conf ~/.tmux.conf
+ln -s ~/dotfiles/.config/zsh/nord.zsh-theme $ZSH/themes/nord-extended
